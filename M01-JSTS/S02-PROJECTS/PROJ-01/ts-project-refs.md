@@ -108,7 +108,7 @@ Crear el archivo ***nodemon.json***
 
 ---
 
-## 03. Configurar Proyecto ##
-03.01 Configurar archivo **package.json**
-03.02 Configurar archivo **tsconfig.json**
-03.03 Configurar archivo **nodemon.json**
+## 03. Configurar Proyecto ##  
+03.01 Configurar archivo **package.json**  
+03.02 Configurar archivo **tsconfig.json**  
+03.03 Configurar archivo **nodemon.json**  
