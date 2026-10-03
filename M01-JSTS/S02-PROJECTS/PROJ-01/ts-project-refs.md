@@ -123,3 +123,26 @@ Crear el archivo ***nodemon.json***
 > [!NOTE]  
 > Actualiza el archivo **nodemon.json** con las siguientes opciones  
 ![nodemon.json](imgs/nodemon.json.png)
+
+
+---
+## 04 Código Fuente ##
+
+04.01 **Crear Archivos** en la **Carpeta Principal del Proyecto**  
+> [!NOTE]  
+> Se pueden crear con el comando **`$ touch`**  
+> Se puede crear desde el **Sistema Operativo**  
+> Se puede crear desde el **Editor de Código**  
+
+04.01.01 Crear archivo **src/app.ts**  
+04.01.02 Crear archivo **src/utils.ts**  
+
+04.02 **Actualizar** archivo **src/app.ts**  
+> [!NOTE]  
+> Actualiza el archivo **src/app.ts** con las siguientes opciones  
+![app.ts](imgs/app.ts.png)  
+
+04.03 **Actualizar** archivo **src/utils.ts**  
+> [!NOTE]  
+> Actualiza el archivo **src/utils.ts** con las siguientes opciones  
+![utils.ts](imgs/utils.ts.png)  
