@@ -110,5 +110,16 @@ Crear el archivo ***nodemon.json***
 
 ## 03. Configurar Proyecto ##  
 03.01 Configurar archivo **package.json**  
+> [!NOTE]  
+> Actualiza el archivo **package.json** con las siguientes opciones  
+![package.json](imgs/package.json.png)  
+
 03.02 Configurar archivo **tsconfig.json**  
+> [!NOTE]  
+> Actualiza el archivo **tsconfig.json** con las siguientes opciones  
+![tsconfig.json](imgs/tsconfig.json.png)  
+
 03.03 Configurar archivo **nodemon.json**  
+> [!NOTE]  
+> Actualiza el archivo **nodemon.json** con las siguientes opciones  
+![nodemon.json](imgs/nodemon.json.png)
