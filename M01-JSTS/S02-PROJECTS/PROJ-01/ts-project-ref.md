@@ -112,17 +112,17 @@ Crear el archivo ***nodemon.json***
 03.01 Configurar archivo **package.json**  
 > [!NOTE]  
 > Actualiza el archivo **package.json** con las siguientes opciones  
-![package.json](imgs/package.json.png)  
+![package.json](ts-project-ref/package.json.png)  
 
 03.02 Configurar archivo **tsconfig.json**  
 > [!NOTE]  
 > Actualiza el archivo **tsconfig.json** con las siguientes opciones  
-![tsconfig.json](imgs/tsconfig.json.png)  
+![tsconfig.json](ts-project-ref/tsconfig.json.png)  
 
 03.03 Configurar archivo **nodemon.json**  
 > [!NOTE]  
 > Actualiza el archivo **nodemon.json** con las siguientes opciones  
-![nodemon.json](imgs/nodemon.json.png)
+![nodemon.json](ts-project-ref/nodemon.json.png)
 
 
 ---
@@ -140,12 +140,12 @@ Crear el archivo ***nodemon.json***
 04.02 **Actualizar** archivo **src/app.ts**  
 > [!NOTE]  
 > Actualiza el archivo **src/app.ts** con las siguientes opciones  
-![app.ts](imgs/app.ts.png)  
+![app.ts](ts-project-ref/app.ts.png)  
 
 04.03 **Actualizar** archivo **src/utils.ts**  
 > [!NOTE]  
 > Actualiza el archivo **src/utils.ts** con las siguientes opciones  
-![utils.ts](imgs/utils.ts.png)  
+![utils.ts](ts-project-ref/utils.ts.png)  
 
 
 ---
