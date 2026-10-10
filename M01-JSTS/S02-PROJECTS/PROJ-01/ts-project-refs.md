@@ -146,3 +146,41 @@ Crear el archivo ***nodemon.json***
 > [!NOTE]  
 > Actualiza el archivo **src/utils.ts** con las siguientes opciones  
 ![utils.ts](imgs/utils.ts.png)  
+
+
+---
+## 05 Ejecutar Proyecto ##
+
+> [!NOTE]  
+> Cada tarea debe ejecutarse en ventanas separadas
+
+> [!NOTE]  
+> A diferencia de los IDEs (**Visual Studio**, **IntelliJ Idea**, **Eclipse**, etc.), allí un mismo botón ejecuta la compilación (**Build/Compile**) y la ejecución (**Run**) de manera consecutiva y conjunta (**Build & Run**), pero también lo pueden hacer de forma separada que no es lo más común.  
+>   
+> Con dos terminales se hacen las mismas tareas que esos IDEs una para ***Compilar/Transpilar*** (`$npm run dev:ts`) y otro para ejecutar el ***Código Transpilado*** (`$npm run dev:js`)  
+
+05.01 **Transpilar** de ***TypeScript*** a ***JavaScript***
+```bash
+$ npm run dev:ts
+```
+
+05.02 Ejecutar Js
+```bash
+$ npm run dev:js
+```
+
+05.03 Resultado esperado:
+
+> [!NOTE]
+> Los resultados pueden variar, según los valores de las variables
+
+```bash
+2 + 3 = 5
+2 - 3 = -1
+8 + 7 = 15
+--- Historial de Operaciones ---
+2 + 3 = 5
+2 - 3 = -1
+8 + 7 = 15
+```
+
