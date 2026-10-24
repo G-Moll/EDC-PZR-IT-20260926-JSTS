@@ -10,9 +10,11 @@ async function fetchJson<T>( url: string ): Promise<T> {
 
     return response.json() as Promise<T>;
 }
+
 function getUsers(): Promise<User[]> {
     return fetchJson<User[]>( "https://jsonplaceholder.typicode.com/users" );
 }
+
 function getPosts(): Promise<Post[]> {
     return fetchJson<Post[]>( "https://jsonplaceholder.typicode.com/posts" );
 }
